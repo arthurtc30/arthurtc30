@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a music bot for Discord and some projects at Nvoip
+- 🌱 I’m currently learning ReactJS
+- 🤔 I’m looking for help with MaterialUI
+- 📫 Reach me at arthurtc19@gmail.com
+
+#### Thanks!
 <!--
 **arthurtc30/arthurtc30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
