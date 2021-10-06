@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on some projects at Nvoip
 - 🌱 I’m currently learning ReactJS
-- 🤔 I’m looking for help with MaterialUI
 - 📫 Reach me at arthurtc19@gmail.com
 
 #### Thanks!
