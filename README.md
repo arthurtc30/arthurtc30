@@ -1,5 +1,6 @@
 #### Hi there 👋
 
+- 😁 I'm Arthur, a passionate Programmer / Web Developer from Brazil
 - 🔭 I’m currently working at Nvoip
 - 🌱 I’m currently learning ReactJS
 - 📫 Reach me at arthurtc19@gmail.com
