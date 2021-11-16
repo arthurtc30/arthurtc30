@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-- 🔭 I’m currently working on some projects at Nvoip
+- 🔭 I’m currently working at Nvoip
 - 🌱 I’m currently learning ReactJS
 - 📫 Reach me at arthurtc19@gmail.com
 
