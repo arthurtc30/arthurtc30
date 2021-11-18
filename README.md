@@ -1,5 +1,5 @@
 <div style="display: flex; flex-direction: row;">
-  <div>
+  <div style="display: flex; flex-direction: column;">
   <h2>Hi there 👋</h2>
   <ul>
     <li>😁 I'm Arthur, a passionate Programmer / Web Developer from Brazil</li>
@@ -9,7 +9,7 @@
   </ul>
   <h3>Thanks!</h3>
   </div>
-  <div>
+  <div style="display: flex; flex-direction: column;">
     <img src="https://pa1.narvii.com/7448/d7d6bbb68f4bf9e359c28eaf9eac6d2af3d569eer1-540-810_hq.gif" alt="Gif" />
   </div>
 </div>
