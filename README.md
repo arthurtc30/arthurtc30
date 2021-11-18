@@ -8,7 +8,7 @@
       <li>📫 Reach me at arthurtc19@gmail.com</li>
     </ul>
     <h3>Thanks!</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurtc30&layout=compact&show_icons=true&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurtc30&show_icons=true&theme=dracula" />
     <img src="https://github-readme-stats.vercel.app/api?username=arthurtc30&show_icons=true&theme=dracula" />
   </div>
 </div>
