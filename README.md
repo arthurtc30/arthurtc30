@@ -1,34 +1,21 @@
-<div style="display: flex; flex-direction: row;">
-  <div style="display: flex; flex-direction: column;">
-<style>
-  Content {
-    display: flex;
-    flex-direction: row;
-  }
+<link rel="stylesheet" href="style.css">
 
-  Item {
-    display: flex;
-    flex-direction: column;
-  }
-</style>
-
-<Content style="">
-  <Item>
+<div class="conteudo">
+  <div class="item">
     <img
       src="https://pa1.narvii.com/7448/d7d6bbb68f4bf9e359c28eaf9eac6d2af3d569eer1-540-810_hq.gif"
       alt="Gif"
     />
   </div>
-  <div style="display: flex; flex-direction: column;">
-  </Item>
-  <Item>
+  <div class="item">
     <h2>Hi there 👋</h2>
-    <ul>
-      <li>
-@@ -16,5 +28,5 @@
+    <ul class="lista">
+      <li>😁 I'm Arthur, a passionate Programmer / Web Developer from Brazil</li>
+      <li>🔭 I’m currently working at some personal projects</li>
+      <li>🌱 I’m currently learning ReactJS</li>
       <li>📫 Reach me at arthurtc19@gmail.com</li>
     </ul>
     <h3>Thanks!</h3>
   </div>
-  </Item>
+  </div>
 </div>

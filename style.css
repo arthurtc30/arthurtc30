@@ -1,0 +1,14 @@
+.conteudo {
+    display: flex;
+    flex-direction: row;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    margin: 4px;
+}
+
+.lista {
+    list-style: circle;
+}
