@@ -8,6 +8,7 @@
       <li>📫 Reach me at arthurtc19@gmail.com</li>
     </ul>
     <h3>Thanks!</h3>
-  </div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurtc30&layout=compact" />
   </div>
 </div>
+
