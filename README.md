@@ -1,13 +1,5 @@
-<link rel="stylesheet" href="style.css">
-
-<div class="conteudo">
-  <div class="item">
-    <img
-      src="https://pa1.narvii.com/7448/d7d6bbb68f4bf9e359c28eaf9eac6d2af3d569eer1-540-810_hq.gif"
-      alt="Gif"
-    />
-  </div>
-  <div class="item">
+<div>
+  <div>
     <h2>Hi there 👋</h2>
     <ul class="lista">
       <li>😁 I'm Arthur, a passionate Programmer / Web Developer from Brazil</li>
