@@ -6,6 +6,9 @@
 - 📫 Reach me at arthurtc19@gmail.com
 
 #### Thanks!
+
+![Gif](https://pa1.narvii.com/7448/d7d6bbb68f4bf9e359c28eaf9eac6d2af3d569eer1-540-810_hq.gif)
+
 <!--
 **arthurtc30/arthurtc30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
