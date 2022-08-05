@@ -4,7 +4,7 @@
     <ul class="lista">
       <li>😁 I'm Arthur, a passionate Programmer / Web Developer from Brazil</li>
       <li>🔭 I’m currently working at some personal projects</li>
-      <li>🌱 I’m currently learning TypeScript and ReactJs</li>
+      <li>🌱 I’m currently learning TypeScript and NextJs</li>
       <li>📫 Reach me at arthurtc19@gmail.com</li>
     </ul>
     <h3>Thanks!</h3>
