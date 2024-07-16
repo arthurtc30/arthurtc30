@@ -2,10 +2,9 @@
   <div>
     <h2>Hi there 👋</h2>
     <ul>
-      <li>😁 I'm Arthur, a passionate Programmer / Web Developer from Brazil</li>
-      <li>🔭 I’m currently working at some personal projects</li>
-      <li>💡 I’m currently focusing on back-end development</li>
-      <li>🌱 I’m currently learning Python</li>
+      <li>😁 I'm Arthur, a passionate Back-end Developer from Brazil</li>
+      <li>🔭 I’m currently working at a company while also dedicating time to some personal projects and learning new technologies like Rust and Python.</li>
+      <li>💡 I’m currently focused on back-end projects</li>
       <li>📫 Reach me at arthurtc19@gmail.com</li>
     </ul>
     <h3>Thanks!</h3>
