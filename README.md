@@ -3,7 +3,7 @@
     <h2>Hi there 👋</h2>
     <ul>
       <li>😁 I'm Arthur, a passionate Back-end Developer from Brazil</li>
-      <li>🔭 I’m currently working at a company while also dedicating time to some personal projects and learning new technologies like Rust and Python.</li>
+      <li>🔭 I’m currently working at a company while also dedicating time to some personal projects and learning Rust.</li>
       <li>💡 I’m currently focused on back-end projects</li>
       <li>📫 Reach me at arthurtc19@gmail.com</li>
     </ul>
